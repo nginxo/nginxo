@@ -24,7 +24,6 @@ root@gio $ neofetch
 
 💻 Full-time developer for FloraVerse (Minecraft Server)
 
-
 # 📫 How to reach me
 
 You can reach me at:
