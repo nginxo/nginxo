@@ -8,7 +8,7 @@ root@gio $ neofetch
 
 👍 I'm good at creating designs or mockups in Figma
 
-🌱 I’m currently learning HTML, Python (sometimes) and React
+🌱 I’m currently learning HTML and CSS
 
 💞️ I’m looking to collaborate on competitions, and with companies
 
