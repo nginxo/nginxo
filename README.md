@@ -22,8 +22,6 @@ root@gio $ neofetch
 
 📘 Student at I.I.S. Marconi - Mangano (I.T. sector)
 
-💻 Full-time developer for FloraVerse (Minecraft Server)
-
 # 📫 How to reach me
 
 You can reach me at:
