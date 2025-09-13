@@ -4,11 +4,9 @@ root@gio $ neofetch
 
 👋 Hi, I’m @nginxo (irl Giorgio)
 
-👀 I’m interested in creating websites and applications
-
 👍 I'm good at creating designs or mockups in Figma
 
-🌱 I’m currently learning HTML and CSS
+🌱 I’m currently learning React
 
 💞️ I’m looking to collaborate on competitions, and with companies
 
@@ -17,6 +15,12 @@ root@gio $ neofetch
 🥇 First place in **Cesena's I.T. Problem Solving Olympics** (*Olimpiadi di Problem Solving per l'informatica di Cesena*) - Participated as *Team Stellar* (11/04/2025)
 
 🥈 Second place in **Catania's Hackaton - GreenMindAI** - Participated as *Team Richard Feynman* (29/05/2025)
+
+# 🖥️ Known Programming Languages
+-> Batch
+-> HTML
+-> CSS
+-> Shell
 
 # 🏢 Occupation
 
