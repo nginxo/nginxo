@@ -18,8 +18,11 @@ root@gio $ neofetch
 
 # 🖥️ Known Programming Languages
 -> Batch
+
 -> HTML
+
 -> CSS
+
 -> Shell
 
 # 🏢 Occupation
