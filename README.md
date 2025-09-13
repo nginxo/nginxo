@@ -38,9 +38,6 @@ You can reach me at:
 - Discord: notgio_
 - Email: gio@stellarservices.it
 
-# ⚡ Fun fact:
-I'm the CEO of **✨ Stellar Services**, an organization that combines various sectors, like design, development and event management.
-
 <!---
 nginxo/nginxo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
