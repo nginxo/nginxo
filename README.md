@@ -6,7 +6,7 @@ root@gio $ neofetch
 
 👍 I'm good at creating designs or mockups in Figma
 
-🌱 I’m currently learning React
+🌱 I’m currently learning React and C++
 
 💞️ I’m looking to collaborate on competitions, and with companies
 
@@ -17,13 +17,9 @@ root@gio $ neofetch
 🥈 Second place in **Catania's Hackathon - GreenMindAI** - Participated as *Team Richard Feynman* (29/05/2025)
 
 # 🖥️ Known Programming Languages
--> Batch
+- Batch, Shell
 
--> HTML
-
--> CSS
-
--> Shell
+- HTML, CSS
 
 # 🏢 Occupation
 
